@@ -6,6 +6,7 @@
 
 1. Create Repository and publish it to github
 2. Add a react app
+2. install gh-pages using command ```npm install gh-pages --save-dev```
 3. Add homepage url to package.json
 ```
 {
